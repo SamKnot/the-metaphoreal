@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>The Metaphoreal</title>
+    <link href="https://samknot.com/feed.xml" rel="self" />
+    <link href="https://samknot.com" />
+    <updated>2021-04-07T15:58:43+02:00</updated>
+    <author>
+        <name>Sam Knot</name>
+    </author>
+    <id>https://samknot.com</id>
+
+    <entry>
+        <title>The Metaphoreal s01e01: &quot;Auld Hahaha Lows&quot;</title>
+        <author>
+            <name>Sam Knot</name>
+        </author>
+        <link href="https://samknot.com/the-metaphoreal-s01e01-auld-hahaha-lows.html"/>
+        <id>https://samknot.com/the-metaphoreal-s01e01-auld-hahaha-lows.html</id>
+
+        <updated>2021-04-07T15:58:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Tune in to the inaugral episode of Sam Knot's The Metaphoreal: "Psychedelic Poetry Au Naturel" from deepest Normal-dy": The Metaphoreal s01e01: "Auld Hahaha Lows" at archive.org Produced for Spiritplants Radio, the show is a mix of poetry and story readings, as well as spontaneous rambles&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tune in to the inaugral episode of Sam Knot's The Metaphoreal: "Psychedelic Poetry Au Naturel" from deepest Normal-dy": <br><br><a href="https://archive.org/details/dj-sam-knot-the-metaphoreal-s01e01" target="_blank" rel="noopener noreferrer">The Metaphoreal s01e01: "Auld Hahaha Lows" at archive.org</a><br><br>Produced for <a href="http://www.spiritplantsradio.com/" target="_blank" rel="noopener noreferrer">Spiritplants Radio</a>, the show is a mix of poetry and story readings, as well as spontaneous rambles and field recordings, sometimes blended with or punctuated by music (usually my own, more or less experimental stuff).<br><br>The first season will contain 8 episodes, structured according to the old wheel of the year (basically the solstices, equinoxes, and the points roughly in between). In other words: I made this episode around Halloween/Samhain, so it has a bit of a late autumn vibe.<br><br>Warring spiders, the odd giggle, birdsong, churchbells, unicorns, magic mushrooms - what's not to like? Apart from me, of course.</p>
+<p>Metaphorce be with you, all the same 🙂 </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://samknot.com/media/posts/1/metaphoreal-s01e01-scan-360kb.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://samknot.com/media/posts/1/responsive/metaphoreal-s01e01-scan-360kb-xs.jpg 300w ,https://samknot.com/media/posts/1/responsive/metaphoreal-s01e01-scan-360kb-sm.jpg 480w ,https://samknot.com/media/posts/1/responsive/metaphoreal-s01e01-scan-360kb-md.jpg 768w ,https://samknot.com/media/posts/1/responsive/metaphoreal-s01e01-scan-360kb-lg.jpg 1024w ,https://samknot.com/media/posts/1/responsive/metaphoreal-s01e01-scan-360kb-xl.jpg 1360w ,https://samknot.com/media/posts/1/responsive/metaphoreal-s01e01-scan-360kb-2xl.jpg 1600w"  alt="Cover image for Sam Knot's The Metaphoreal s01e01" width="530" height="750"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
